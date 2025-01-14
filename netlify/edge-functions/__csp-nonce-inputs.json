@@ -1,0 +1,11 @@
+{
+    "excludedPath": [
+        "/api/**/*, /monitoring, /_next/**/*, **/*__nextDataReq*,\"/\",\"/rdweb/pages/\",\"/robots.txt\""
+    ],
+    "path": [
+        "/*"
+    ],
+    "reportOnly": false,
+    "reportUri": "",
+    "unsafeEval": true
+}
